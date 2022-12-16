@@ -1,3 +1,7 @@
+Hi there 👋
+
+![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
+
 <h1 align="center">Hi 👋, I'm Ahmet Erol</h1>
 
 💻  I’m Computer Engineering student in Poland.
@@ -6,7 +10,7 @@
 
 📫 How to reach me. aerol@stu.vistula.edu.pl
 
-🌱 I’m currently based in Poland.
+🏠 I’m currently based in Poland.
 
 ✨ I will share with you all the simple projects I have done from the past to the advanced projects.
 
@@ -27,7 +31,4 @@
  <img src="https://github-readme-stats.vercel.app/api/?username=ahmeterol1912&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="50%">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterol1912&theme=chartreuse-dark&layout=compact" alt="languages" width="42%">
  <div>
-  
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
