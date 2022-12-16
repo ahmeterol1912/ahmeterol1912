@@ -6,7 +6,7 @@ Hi there 👋
 
 💻  I’m Computer Engineering student in Poland.
 
-🔭 I’m currently working on Full Stack Development.
+🔭 I’m currently working on Full Stack Developer.
 
 📫 How to reach me. aerol@stu.vistula.edu.pl
 
