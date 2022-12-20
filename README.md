@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Full Stack Development.
 
-📫 How to reach me. aerol@stu.vistula.edu.pl
+📫 How to reach me. aerol@stu.vistula.edu.pl https://www.linkedin.com/in/ahmet-erol-a31a09254/
 
 🏠 I’m currently based in Poland.
 
