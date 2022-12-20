@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Full Stack Development.
 
-📫 How to reach me. aerol@stu.vistula.edu.pl / https://www.linkedin.com/in/ahmet-erol-a31a09254/
+📫 How to reach me. aerol@stu.vistula.edu.pl
 
 🏠 I’m currently based in Poland.
 
@@ -29,5 +29,3 @@
  <img src="https://github-readme-stats.vercel.app/api/?username=ahmeterol1912&count_private=true&theme=tokyonight&showicons=true" alt="languages" width="50%">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterol1912&theme=chartreuse-dark&layout=compact" alt="languages" width="42%">
  <div>
-
-
