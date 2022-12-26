@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://ahmeterol1912.io)
 
-<h1 align="center">Hi there 👋, I'm Ahmet Erol</h1>
+<h1 align="center">Hi there 👋, I'm Ahmet</h1>
 
 💻  I’m Computer Engineering student in Poland.
 
@@ -11,7 +11,6 @@
 🏠 I’m currently based in Poland.
 
 ✨ I will share with you all the simple projects I have done from the past to the advanced projects.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
