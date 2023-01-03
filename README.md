@@ -8,6 +8,8 @@
 
 📫 How to reach me. aerol@stu.vistula.edu.pl
 
+⚡ I Enjoy Attending IT Events in my area.
+
 🏠 I’m currently based in Poland.
 
 ✨ I will share with you all the simple projects I have done from the past to the advanced projects.
