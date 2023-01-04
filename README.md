@@ -14,6 +14,8 @@
 
 ✨ I will share with you all the simple projects I have done from the past to the advanced projects.
 
+🎯 Follow: [![Github](https://img.shields.io/github/followers/ahmeterol1912?label=Follow&style=social)](https://github.com/ahmeterol1912)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmeterol1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeterol1912" height="30" width="40" /></a>
