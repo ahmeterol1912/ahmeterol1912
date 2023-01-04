@@ -3,7 +3,7 @@
 <a href="https://github.com/ahmeterol1912/">
  <img src="https://komarev.com/ghpvc/?username=ahmeterol1912" alt="page views" width="130" height="30%"/>
   </a>
-
+ 
 <h1 align="center">Hi there 👋, I'm Ahmet</h1>
 
 💻  I’m Computer Engineering student in Poland.
