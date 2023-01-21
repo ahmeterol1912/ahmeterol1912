@@ -3,19 +3,19 @@
  <img src="https://komarev.com/ghpvc/?username=ahmeterol1912" alt="page views" width="130" height="30"/>
   </a>
  
-<h1 align="center">Hi there 👋, I'm Ahmet</h1>
+<h1 align="center">Hi👋, I'm Ahmet</h1>
 
 💻  I’m Computer Engineering student in Poland.
 
 🔭 I’m currently working on Full Stack Development.
-
-📫 How to reach me. aerol@stu.vistula.edu.pl
 
 ⚡ I Enjoy Attending IT Events in my area.
 
 🏠 I’m currently based in Poland.
 
 ✨ I will share with you all the simple projects I have done from the past to the advanced projects.
+
+📫 How to reach me. aerol@stu.vistula.edu.pl
 
 🎯 Follow: [![Github](https://img.shields.io/github/followers/ahmeterol1912?label=Follow&style=social)](https://github.com/ahmeterol1912)
 
