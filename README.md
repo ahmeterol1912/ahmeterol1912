@@ -1,7 +1,6 @@
 <a href="https://github.com/ahmeterol1912/">
  <img src="https://komarev.com/ghpvc/?username=ahmeterol1912" alt="page views" width="120" height="30"/>
   </a>
-
   
 <h1 align="center">Hi👋, I'm Ahmet</h1>
 
